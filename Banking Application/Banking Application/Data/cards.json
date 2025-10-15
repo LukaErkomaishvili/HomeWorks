@@ -1,0 +1,162 @@
+[
+  {
+    "CardNumber": "4128046499643916",
+    "Expiry": "11/27",
+    "Pin": "3879",
+    "Balance": 4817.88,
+    "Currency": "USD",
+    "Owner": "John Doe"
+  },
+  {
+    "CardNumber": "4207754391256281",
+    "Expiry": "01/29",
+    "Pin": "4929",
+    "Balance": 1795.52,
+    "Currency": "GEL",
+    "Owner": "Jane Smith"
+  },
+  {
+    "CardNumber": "4855095461317511",
+    "Expiry": "09/28",
+    "Pin": "1202",
+    "Balance": 249.50,
+    "Currency": "EUR",
+    "Owner": "Alice Johnson"
+  },
+  {
+    "CardNumber": "4143041692609096",
+    "Expiry": "10/28",
+    "Pin": "3506",
+    "Balance": 997.00,
+    "Currency": "GEL",
+    "Owner": "Bob Brown"
+  },
+  {
+    "CardNumber": "4220650033990308",
+    "Expiry": "12/28",
+    "Pin": "4885",
+    "Balance": 332.75,
+    "Currency": "USD",
+    "Owner": "Charlie Davis"
+  },
+  {
+    "CardNumber": "4666570123885409",
+    "Expiry": "08/29",
+    "Pin": "7150",
+    "Balance": 1200.00,
+    "Currency": "EUR",
+    "Owner": "Diana Evans"
+  },
+  {
+    "CardNumber": "4077632099954318",
+    "Expiry": "06/27",
+    "Pin": "0341",
+    "Balance": 77.25,
+    "Currency": "GEL",
+    "Owner": "Ethan Foster"
+  },
+  {
+    "CardNumber": "4480798632105543",
+    "Expiry": "03/29",
+    "Pin": "9991",
+    "Balance": 2999.99,
+    "Currency": "USD",
+    "Owner": "Fiona Green"
+  },
+  {
+    "CardNumber": "4970123456789013",
+    "Expiry": "07/29",
+    "Pin": "4406",
+    "Balance": 15.00,
+    "Currency": "GEL",
+    "Owner": "George Harris"
+  },
+  {
+    "CardNumber": "4024007198781234",
+    "Expiry": "10/27",
+    "Pin": "1111",
+    "Balance": 230.50,
+    "Currency": "USD",
+    "Owner": "Hannah White"
+  },
+  {
+    "CardNumber": "4539578763621486",
+    "Expiry": "12/26",
+    "Pin": "1234",
+    "Balance": 1500.75,
+    "Currency": "GEL",
+    "Owner": "Ian Black"
+  },
+  {
+    "CardNumber": "4556737586899855",
+    "Expiry": "02/30",
+    "Pin": "5566",
+    "Balance": 402.12,
+    "Currency": "EUR",
+    "Owner": "Jack Wilson"
+  },
+  {
+    "CardNumber": "4716789001234567",
+    "Expiry": "05/28",
+    "Pin": "1234",
+    "Balance": 900.00,
+    "Currency": "EUR",
+    "Owner": "Karen Young"
+  },
+  {
+    "CardNumber": "4532015112830366",
+    "Expiry": "04/29",
+    "Pin": "8420",
+    "Balance": 150.00,
+    "Currency": "GEL",
+    "Owner": "Larry King"
+  },
+  {
+    "CardNumber": "4485315163944736",
+    "Expiry": "11/30",
+    "Pin": "2701",
+    "Balance": 64.25,
+    "Currency": "USD",
+    "Owner": "Mona Lisa"
+  },
+  {
+    "CardNumber": "4556737586899865",
+    "Expiry": "09/29",
+    "Pin": "3333",
+    "Balance": 888.88,
+    "Currency": "GEL",
+    "Owner": "Nina Simone"
+  },
+  {
+    "CardNumber": "4024007198781230",
+    "Expiry": "12/31",
+    "Pin": "9009",
+    "Balance": 50.50,
+    "Currency": "EUR",
+    "Owner": "Oscar Wilde"
+  },
+  {
+    "CardNumber": "4556737599999999",
+    "Expiry": "08/30",
+    "Pin": "4242",
+    "Balance": 2400.00,
+    "Currency": "GEL",
+    "Owner": "Paul Allen"
+  },
+  {
+    "CardNumber": "4916017011648218",
+    "Expiry": "06/30",
+    "Pin": "6578",
+    "Balance": 122.1530,
+    "Currency": "EUR",
+    "Owner": "Queen Latifah"
+  },
+  {
+    "CardNumber": "4024007198781299",
+    "Expiry": "01/31",
+    "Pin": "0123",
+    "Balance": 1263.6540,
+    "Currency": "USD",
+    "Owner": "Robert Plant"
+  }
+]
